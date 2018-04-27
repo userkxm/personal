@@ -1,0 +1,30 @@
+d:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\WebStatuaryHall\bin\WebStatuaryHall.dll.config
+d:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\WebStatuaryHall\bin\WebStatuaryHall.dll
+d:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\WebStatuaryHall\bin\WebStatuaryHall.pdb
+d:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\WebStatuaryHall\bin\AspNet.ScriptManager.jQuery.dll
+d:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\WebStatuaryHall\bin\BLL.dll
+d:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\WebStatuaryHall\bin\Model.dll
+d:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\WebStatuaryHall\bin\DAL.dll
+d:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\WebStatuaryHall\bin\Rule.dll
+d:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\WebStatuaryHall\bin\BLL.pdb
+d:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\WebStatuaryHall\bin\Model.pdb
+d:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\WebStatuaryHall\bin\DAL.pdb
+d:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\WebStatuaryHall\bin\Rule.pdb
+d:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\WebStatuaryHall\obj\Debug\WebPjFilm.csprojResolveAssemblyReference.cache
+d:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\WebStatuaryHall\obj\Debug\WebStatuaryHall.dll
+d:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\WebStatuaryHall\obj\Debug\WebStatuaryHall.pdb
+D:\毕业设计\啪叽电影\WebStatuaryHall\bin\WebStatuaryHall.dll.config
+D:\毕业设计\啪叽电影\WebStatuaryHall\bin\WebStatuaryHall.dll
+D:\毕业设计\啪叽电影\WebStatuaryHall\bin\WebStatuaryHall.pdb
+D:\毕业设计\啪叽电影\WebStatuaryHall\bin\AspNet.ScriptManager.jQuery.dll
+D:\毕业设计\啪叽电影\WebStatuaryHall\bin\BLL.dll
+D:\毕业设计\啪叽电影\WebStatuaryHall\bin\Model.dll
+D:\毕业设计\啪叽电影\WebStatuaryHall\bin\DAL.dll
+D:\毕业设计\啪叽电影\WebStatuaryHall\bin\Rule.dll
+D:\毕业设计\啪叽电影\WebStatuaryHall\bin\BLL.pdb
+D:\毕业设计\啪叽电影\WebStatuaryHall\bin\Model.pdb
+D:\毕业设计\啪叽电影\WebStatuaryHall\bin\DAL.pdb
+D:\毕业设计\啪叽电影\WebStatuaryHall\bin\Rule.pdb
+D:\毕业设计\啪叽电影\WebStatuaryHall\obj\Debug\WebPjFilm.csprojResolveAssemblyReference.cache
+D:\毕业设计\啪叽电影\WebStatuaryHall\obj\Debug\WebStatuaryHall.dll
+D:\毕业设计\啪叽电影\WebStatuaryHall\obj\Debug\WebStatuaryHall.pdb

@@ -1,0 +1,19 @@
+F:\作业\第二学年\第二学期项目\影殿\Model\bin\Debug\Model.dll
+F:\作业\第二学年\第二学期项目\影殿\Model\bin\Debug\Model.pdb
+F:\作业\第二学年\第二学期项目\影殿\Model\obj\Debug\Model.dll
+F:\作业\第二学年\第二学期项目\影殿\Model\obj\Debug\Model.pdb
+F:\作业\其他文件\第二学期项目\影殿\Model\bin\Debug\Model.dll
+F:\作业\其他文件\第二学期项目\影殿\Model\bin\Debug\Model.pdb
+F:\作业\其他文件\第二学期项目\影殿\Model\obj\Debug\Model.dll
+F:\作业\其他文件\第二学期项目\影殿\Model\obj\Debug\Model.pdb
+F:\作业\其他文件\第二学期项目\影殿\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+F:\作业\新建文件夹\第二学期项目\影殿\Model\bin\Debug\Model.dll
+F:\作业\新建文件夹\第二学期项目\影殿\Model\bin\Debug\Model.pdb
+F:\作业\新建文件夹\第二学期项目\影殿\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+F:\作业\新建文件夹\第二学期项目\影殿\Model\obj\Debug\Model.dll
+F:\作业\新建文件夹\第二学期项目\影殿\Model\obj\Debug\Model.pdb
+D:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\Model\bin\Debug\Model.dll
+D:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\Model\bin\Debug\Model.pdb
+D:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\Model\obj\Debug\Model.dll
+D:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\Model\obj\Debug\Model.pdb

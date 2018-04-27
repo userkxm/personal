@@ -1,0 +1,42 @@
+F:\作业\第二学年\第二学期项目\影殿\BLL\bin\Debug\BLL.dll
+F:\作业\第二学年\第二学期项目\影殿\BLL\bin\Debug\BLL.pdb
+F:\作业\第二学年\第二学期项目\影殿\BLL\bin\Debug\DAL.dll
+F:\作业\第二学年\第二学期项目\影殿\BLL\bin\Debug\Model.dll
+F:\作业\第二学年\第二学期项目\影殿\BLL\bin\Debug\DAL.pdb
+F:\作业\第二学年\第二学期项目\影殿\BLL\bin\Debug\Model.pdb
+F:\作业\第二学年\第二学期项目\影殿\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\作业\第二学年\第二学期项目\影殿\BLL\obj\Debug\BLL.dll
+F:\作业\第二学年\第二学期项目\影殿\BLL\obj\Debug\BLL.pdb
+F:\作业\其他文件\第二学期项目\影殿\BLL\bin\Debug\BLL.dll
+F:\作业\其他文件\第二学期项目\影殿\BLL\bin\Debug\BLL.pdb
+F:\作业\其他文件\第二学期项目\影殿\BLL\bin\Debug\DAL.dll
+F:\作业\其他文件\第二学期项目\影殿\BLL\bin\Debug\Model.dll
+F:\作业\其他文件\第二学期项目\影殿\BLL\bin\Debug\DAL.pdb
+F:\作业\其他文件\第二学期项目\影殿\BLL\bin\Debug\Model.pdb
+F:\作业\其他文件\第二学期项目\影殿\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\作业\其他文件\第二学期项目\影殿\BLL\obj\Debug\BLL.dll
+F:\作业\其他文件\第二学期项目\影殿\BLL\obj\Debug\BLL.pdb
+F:\作业\其他文件\第二学期项目\影殿\BLL\bin\Debug\Rule.dll
+F:\作业\其他文件\第二学期项目\影殿\BLL\bin\Debug\Rule.pdb
+F:\作业\新建文件夹\第二学期项目\影殿\BLL\bin\Debug\BLL.dll
+F:\作业\新建文件夹\第二学期项目\影殿\BLL\bin\Debug\BLL.pdb
+F:\作业\新建文件夹\第二学期项目\影殿\BLL\bin\Debug\DAL.dll
+F:\作业\新建文件夹\第二学期项目\影殿\BLL\bin\Debug\Model.dll
+F:\作业\新建文件夹\第二学期项目\影殿\BLL\bin\Debug\Rule.dll
+F:\作业\新建文件夹\第二学期项目\影殿\BLL\bin\Debug\DAL.pdb
+F:\作业\新建文件夹\第二学期项目\影殿\BLL\bin\Debug\Model.pdb
+F:\作业\新建文件夹\第二学期项目\影殿\BLL\bin\Debug\Rule.pdb
+F:\作业\新建文件夹\第二学期项目\影殿\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\作业\新建文件夹\第二学期项目\影殿\BLL\obj\Debug\BLL.dll
+F:\作业\新建文件夹\第二学期项目\影殿\BLL\obj\Debug\BLL.pdb
+D:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\BLL\bin\Debug\BLL.dll
+D:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\BLL\bin\Debug\BLL.pdb
+D:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\BLL\bin\Debug\DAL.dll
+D:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\BLL\bin\Debug\Model.dll
+D:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\BLL\bin\Debug\Rule.dll
+D:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\BLL\bin\Debug\DAL.pdb
+D:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\BLL\bin\Debug\Model.pdb
+D:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\BLL\bin\Debug\Rule.pdb
+D:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\BLL\obj\Debug\BLL.dll
+D:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\BLL\obj\Debug\BLL.pdb

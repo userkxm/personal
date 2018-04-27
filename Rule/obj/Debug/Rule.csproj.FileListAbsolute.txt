@@ -1,0 +1,27 @@
+F:\作业\其他文件\第二学期项目\影殿\Rule\bin\Debug\Rule.dll
+F:\作业\其他文件\第二学期项目\影殿\Rule\bin\Debug\Rule.pdb
+F:\作业\其他文件\第二学期项目\影殿\Rule\bin\Debug\DAL.dll
+F:\作业\其他文件\第二学期项目\影殿\Rule\bin\Debug\Model.dll
+F:\作业\其他文件\第二学期项目\影殿\Rule\bin\Debug\DAL.pdb
+F:\作业\其他文件\第二学期项目\影殿\Rule\bin\Debug\Model.pdb
+F:\作业\其他文件\第二学期项目\影殿\Rule\obj\Debug\Rule.csprojResolveAssemblyReference.cache
+F:\作业\其他文件\第二学期项目\影殿\Rule\obj\Debug\Rule.dll
+F:\作业\其他文件\第二学期项目\影殿\Rule\obj\Debug\Rule.pdb
+F:\作业\新建文件夹\第二学期项目\影殿\Rule\bin\Debug\Rule.dll
+F:\作业\新建文件夹\第二学期项目\影殿\Rule\bin\Debug\Rule.pdb
+F:\作业\新建文件夹\第二学期项目\影殿\Rule\bin\Debug\DAL.dll
+F:\作业\新建文件夹\第二学期项目\影殿\Rule\bin\Debug\Model.dll
+F:\作业\新建文件夹\第二学期项目\影殿\Rule\bin\Debug\DAL.pdb
+F:\作业\新建文件夹\第二学期项目\影殿\Rule\bin\Debug\Model.pdb
+F:\作业\新建文件夹\第二学期项目\影殿\Rule\obj\Debug\Rule.csprojResolveAssemblyReference.cache
+F:\作业\新建文件夹\第二学期项目\影殿\Rule\obj\Debug\Rule.dll
+F:\作业\新建文件夹\第二学期项目\影殿\Rule\obj\Debug\Rule.pdb
+D:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\Rule\bin\Debug\Rule.dll
+D:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\Rule\bin\Debug\Rule.pdb
+D:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\Rule\bin\Debug\DAL.dll
+D:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\Rule\bin\Debug\Model.dll
+D:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\Rule\bin\Debug\DAL.pdb
+D:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\Rule\bin\Debug\Model.pdb
+D:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\Rule\obj\Debug\Rule.csprojResolveAssemblyReference.cache
+D:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\Rule\obj\Debug\Rule.dll
+D:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\Rule\obj\Debug\Rule.pdb

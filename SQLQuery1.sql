@@ -1,0 +1,1 @@
+﻿select * from (select ROW_NUMBER() over (Order by MIID) as BID, * from vw_MovieType where [delete]=0 StateNameID=103)as c where c.BID between 1 and 90

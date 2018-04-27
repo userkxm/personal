@@ -1,0 +1,42 @@
+﻿        .Menu {
+            text-decoration: none;
+            color: #090909;
+        }
+
+            .Menu:hover {
+                background-color: gray;
+                color: white;
+            }
+
+        .a {
+            text-decoration: none;
+            color: #090909;
+        }
+
+        /*body{ background-color:#2E2E2E}*/
+        body{
+            background-color:#f3f3fa;
+        }
+        .zy-Slide section {
+            color: #0094ff;
+            border-width: 1px;
+            border-style: solid;
+        }
+        .gourpbtn {
+            padding-left: 15px;
+            padding-right: 15px;
+            padding-bottom: 15px;
+        }
+
+        .progress {
+            margin-top: 10px;
+        }
+
+        .sidebar {
+            background-color: #f5f5f5;
+            position: fixed;
+            left: 0px;
+            bottom: 0px;
+            top: 51px;
+            padding: 20px 0 0 0;
+        }

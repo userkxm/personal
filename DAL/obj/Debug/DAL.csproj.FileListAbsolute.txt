@@ -1,0 +1,28 @@
+F:\作业\第二学年\第二学期项目\影殿\DAL\bin\Debug\DAL.dll
+F:\作业\第二学年\第二学期项目\影殿\DAL\bin\Debug\DAL.pdb
+F:\作业\第二学年\第二学期项目\影殿\DAL\bin\Debug\Model.dll
+F:\作业\第二学年\第二学期项目\影殿\DAL\bin\Debug\Model.pdb
+F:\作业\第二学年\第二学期项目\影殿\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\作业\第二学年\第二学期项目\影殿\DAL\obj\Debug\DAL.dll
+F:\作业\第二学年\第二学期项目\影殿\DAL\obj\Debug\DAL.pdb
+F:\作业\其他文件\第二学期项目\影殿\DAL\bin\Debug\DAL.dll
+F:\作业\其他文件\第二学期项目\影殿\DAL\bin\Debug\DAL.pdb
+F:\作业\其他文件\第二学期项目\影殿\DAL\bin\Debug\Model.dll
+F:\作业\其他文件\第二学期项目\影殿\DAL\bin\Debug\Model.pdb
+F:\作业\其他文件\第二学期项目\影殿\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\作业\其他文件\第二学期项目\影殿\DAL\obj\Debug\DAL.dll
+F:\作业\其他文件\第二学期项目\影殿\DAL\obj\Debug\DAL.pdb
+F:\作业\新建文件夹\第二学期项目\影殿\DAL\bin\Debug\DAL.dll
+F:\作业\新建文件夹\第二学期项目\影殿\DAL\bin\Debug\DAL.pdb
+F:\作业\新建文件夹\第二学期项目\影殿\DAL\bin\Debug\Model.dll
+F:\作业\新建文件夹\第二学期项目\影殿\DAL\bin\Debug\Model.pdb
+F:\作业\新建文件夹\第二学期项目\影殿\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\作业\新建文件夹\第二学期项目\影殿\DAL\obj\Debug\DAL.dll
+F:\作业\新建文件夹\第二学期项目\影殿\DAL\obj\Debug\DAL.pdb
+D:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\DAL\bin\Debug\DAL.dll
+D:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\DAL\bin\Debug\DAL.pdb
+D:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\DAL\bin\Debug\Model.dll
+D:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\DAL\bin\Debug\Model.pdb
+D:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\DAL\obj\Debug\DAL.dll
+D:\Documents\Tencent Files\1993479248\FileRecv\第二学期项目\第二学期项目\影殿\DAL\obj\Debug\DAL.pdb
